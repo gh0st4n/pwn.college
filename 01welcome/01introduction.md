@@ -5,18 +5,23 @@
 ## Fitur Utama pwn.college
 
 - **Metode Belajar Berbasis DOJO**
+
   Menggunakan konsep latihan bertarung (sparring), di mana peserta belajar menyerang dan bertahan dengan cara menyelesaikan tantangan teknis nyata daripada sekadar membaca teori.
 
 - **Topik Tingkat Rendah (Low-level)**
+
   Fokus utama materi meliputi rekayasa balik (reverse engineering), korupsi memori (memory corruption), eksploitasi biner, kerentanan kernel, hingga pemrograman tingkat rendah seperti bahasa assembly.
 
 - **Sistem Sabuk (Belt System)**
+
   Peserta memulai dari level dasar (white belt) dan naik ke level yang lebih tinggi dengan menyelesaikan tantangan progresif.
 
 - **Lingkungan Siap Pakai**
+
   Platform ini menyediakan kontainer dojo/terminal virtual mandiri sehingga pengguna tidak perlu repot mengatur tools atau debugging sendiri di komputer masing-masing
 
 - **Dukungan Komunitas dan AI**
+
   Didukung oleh asisten AI bernama **SENSAI** serta komunitas aktif melalui peladen Discord resmi mereka.
 
 ---
