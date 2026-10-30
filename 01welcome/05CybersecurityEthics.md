@@ -32,7 +32,7 @@
 
 <td align="center"><a href="../README.md">Home</a></td>
 
-<td align="right"><a href="#">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="../02getting-start/00.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 
