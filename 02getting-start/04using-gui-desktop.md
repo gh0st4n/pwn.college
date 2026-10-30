@@ -16,7 +16,7 @@ Tantangan ini mengharuskan Anda untuk membuka terminal di dalam Desktop tersebut
 
 <td align="center"><a href="../README.md">Home</a></td>
 
-<td align="right"><a href="">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="05pasting-into-the-desktop.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 
