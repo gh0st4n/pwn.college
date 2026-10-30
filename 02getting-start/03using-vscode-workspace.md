@@ -26,7 +26,7 @@ Dojo pwn.college akan mengingat antarmuka workspace terakhir (Terminal, VSCode, 
 
 <td align="center"><a href="../README.md">Home</a></td>
 
-<td align="right"><a href="">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="04using-gui-desktop.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 
