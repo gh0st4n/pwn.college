@@ -23,7 +23,7 @@ My Journey on [pwn.college](https://pwn.college/).
    - [Using the GUI Desktop](04using-gui-desktop.md)
    - [Pasting into The Desktop](05pasting-into-the-desktop.md)
    - [Connecting over SSH](06connecting-over-ssh.md) (opsional)
-         - 6.1 [Step-By-Step SSH](06ssh.md)
+         - [Step-By-Step SSH](06ssh.md)
    - [Restarting Challenges](07restarting-challenges.md)
    - [Getting Help](08getting-help.md) (opsional)
 
