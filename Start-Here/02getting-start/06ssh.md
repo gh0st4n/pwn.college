@@ -90,3 +90,23 @@ scp -i key hacker@dojo.pwn.college:/home/hacker/file.txt .
 - **`Connection closed` / langsung terputus**: biasanya challenge belum di-start. Start dulu dari website.
 - **`UNPROTECTED PRIVATE KEY FILE`**: jalankan `chmod 600 key`.
 - **Ingin lihat detail error**: tambahkan `-v` (`ssh -v -i key hacker@dojo.pwn.college`).
+
+---
+
+<table width="100%">
+<tr>
+<td align="left"><a href="06connecting-over-ssh.md">&lt;&lt;&lt; Previous</a></td>
+
+<td align="center"><a href="../README.md">Home</a></td>
+
+<td align="right"><a href="07restarting-challenges.md">Next &gt;&gt;&gt;</a></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+[@T4n-Labs](https://t4nlabs.web.id/) • [@Gh0sT4n](https://gh0st4n.my.id)
+
+</div>
