@@ -10,7 +10,7 @@ Anda dapat dengan cepat membuat kunci SSH dengan menjalankan perintah berikut di
 ssh-keygen -f key -N ''
 ```
 
-Perintah ini akan menghasilkan dua berkas: **key** dan **key.pub**, yang masing-masing merupakan kunci privat (private key) dan kunci publik (public key) Anda.
+Perintah ini akan menghasilkan dua berkas: `key` dan `key.pub`, yang masing-masing merupakan kunci privat (private key) dan kunci publik (public key) Anda.
 
 Setelah Anda menghubungkan kunci SSH publik ke akun Anda, Anda dapat terhubung ke dojo melalui SSH dengan perintah:
 

@@ -10,7 +10,7 @@ Anda dapat menggunakan pemilih workspace pada bilah di bawah Terminal (misalnya 
 
 Sekali lagi, Anda dapat menggunakannya sebagaimana adanya, atau mengklik tombol "layar penuh" (⛶) untuk memaksimalkan tampilan antarmuka agar terasa lebih lega.
 
-Setelah VSCode dimuat, jalankan terminal (tekan **Control-Shift-Backtick** atau klik tombol **☰** di panel kiri VSCode, lalu pilih menu Terminal, dan klik New Terminal).
+Setelah VSCode dimuat, jalankan terminal (tekan `Control-Shift-Backtick` atau klik tombol `☰` di panel kiri VSCode, lalu pilih menu Terminal, dan klik New Terminal).
 
 Ketika kami mendeteksi bahwa Anda telah menjalankan terminal di dalam VSCode, kami akan memberikan flag-nya kepada Anda!
 

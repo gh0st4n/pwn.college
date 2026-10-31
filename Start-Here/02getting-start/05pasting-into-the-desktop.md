@@ -2,7 +2,7 @@
 
 Selanjutnya, kita akan belajar cara menempelkan teks (paste) ke dalam Desktop!
 
-Anda akan membutuhkan token rahasia ini: **f8e5eb3178faf47ce5692f7f618e8f6f0e8769de7dd67ffe62b4375430a31e1b9d18a9574e8231e98572**.
+Anda akan membutuhkan token rahasia ini: `f8e5eb3178faf47ce5692f7f618e8f6f0e8769de7dd67ffe62b4375430a31e1b9d18a9574e8231e98572`.
 
 Mulai tantangannya dan buka terminal di dalam Desktop.
 
