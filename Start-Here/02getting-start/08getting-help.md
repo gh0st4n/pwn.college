@@ -35,7 +35,7 @@ SENSAI adalah proyek penelitian yang sedang berlangsung di Arizona State Univers
 
 <td align="center"><a href="../README.md">Home</a></td>
 
-<td align="right"><a href="">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="../03challenge/00.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 
