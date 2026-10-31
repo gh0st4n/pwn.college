@@ -1,8 +1,8 @@
 ## Challenge Program
 
-Berkas-berkas asli yang membentuk tantangan ini berada di dalam direktori **/challenge**.
+Berkas-berkas asli yang membentuk tantangan ini berada di dalam direktori `/challenge`.
 
-Berbeda dengan tantangan sebelumnya yang secara otomatis berjalan saat terminal dibuka, tantangan ini mengharuskan Anda untuk menjalankan (invoke) program **/challenge/solve** secara langsung!
+Berbeda dengan tantangan sebelumnya yang secara otomatis berjalan saat terminal dibuka, tantangan ini mengharuskan Anda untuk menjalankan (invoke) program `/challenge/solve` secara langsung!
 
 Hanya dengan menjalankannya di dalam terminal, Anda akan mendapatkan flag-nya!
 
