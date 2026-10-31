@@ -20,7 +20,7 @@ Jika Anda belum memiliki pengetahuan tersebut, kami menyarankan Anda untuk terle
 
 <td align="center"><a href="../../README.md">Home</a></td>
 
-<td align="right"><a href="">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="02the-file-flag.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 

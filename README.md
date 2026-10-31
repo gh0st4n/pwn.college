@@ -30,8 +30,13 @@ My Journey on [pwn.college](https://pwn.college/).
 4. **The Challenge Environment**
    - [Welcome](Start-Here/03challenge/00.md)
    - [Link Welcome DOJO pwn.college](https://pwn.college/welcome/welcome/)
+   - [Challenge Program](Start-Here/03challenge/01challenge-program.md)
+   - [The File Flag](Start-Here/03challenge/02the-file-flag.md)
+   - [Persistant Home Directory - one](Start-Here/03challenge/04persistant-home-dir-one.md)
+   - [Persistant Home Directory - two](Start-Here/03challenge/05persistant-home-dir-two.md)
 
 ### [Linux Luminarium](https://pwn.college/linux-luminarium/)
+1. [INDEX](linux-luminarium/00.md)
 
 ---
 

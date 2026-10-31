@@ -22,11 +22,11 @@ Setelah itu, Anda perlu membaca berkas `/flag` tersebut sendiri (misalnya, mengg
 
 <table width="100%">
 <tr>
-<td align="left"><a href="../01welcome/05CybersecurityEthics.md">&lt;&lt;&lt; Previous</a></td>
+<td align="left"><a href="01challenge-program.md">&lt;&lt;&lt; Previous</a></td>
 
 <td align="center"><a href="../../README.md">Home</a></td>
 
-<td align="right"><a href="01getting-started/md">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="03using-privileged-mode.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 
