@@ -4,7 +4,7 @@ My Journey on [pwn.college](https://pwn.college/).
 
 ## List of contents
 
-### Start Here
+### [Start Here](https://pwn.college/welcome/welcome/)
 1. [INDEX](Start-Here/00.md)
 2. [Welcome](Start-Here/01welcome/00.md)
    - [Link Welcome DOJO pwn.college](https://pwn.college/welcome/welcome/)
@@ -14,7 +14,8 @@ My Journey on [pwn.college](https://pwn.college/).
    - [A Proof of (In)Security of Hacking Team](Start-Here/01welcome/04PoSHT.md)
    - [Cybersecurity Ethics](Start-Here/01welcome/05CybersecurityEthics.md)
 
-3.[Welcome](02getting-start/00.md)
+3. **Interacting with the Dojo**
+   - [Welcome](02getting-start/00.md)
    - [Link Welcome DOJO pwn.college](https://pwn.college/welcome/welcome/)
    - [Getting Started](01getting-started.md)
    - [Using Terminal](02using-terminal.md)
@@ -26,8 +27,11 @@ My Journey on [pwn.college](https://pwn.college/).
    - [Restarting Challenges](07restarting-challenges.md)
    - [Getting Help](08getting-help.md) (opsional)
 
-4. [Challenge](Start-Here/03challenge/00.md)
+4. **The Challenge Environment**
+   - [Welcome](Start-Here/03challenge/00.md)
    - [Link Welcome DOJO pwn.college](https://pwn.college/welcome/welcome/)
+
+### [Linux Luminarium](https://pwn.college/linux-luminarium/)
 
 ---
 
