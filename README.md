@@ -15,17 +15,17 @@ My Journey on [pwn.college](https://pwn.college/).
    - [Cybersecurity Ethics](Start-Here/01welcome/05CybersecurityEthics.md)
 
 3. **Interacting with the Dojo**
-   - [Welcome](02getting-start/00.md)
+   - [Welcome](Start-Here/02getting-start/00.md)
    - [Link Welcome DOJO pwn.college](https://pwn.college/welcome/welcome/)
-   - [Getting Started](01getting-started.md)
-   - [Using Terminal](02using-terminal.md)
-   - [Using-VSCode Workspace](03using-vscode-workspace.md)
-   - [Using the GUI Desktop](04using-gui-desktop.md)
-   - [Pasting into The Desktop](05pasting-into-the-desktop.md)
-   - [Connecting over SSH](06connecting-over-ssh.md) (opsional)
-         - [Step-By-Step SSH](06ssh.md)
-   - [Restarting Challenges](07restarting-challenges.md)
-   - [Getting Help](08getting-help.md) (opsional)
+   - [Getting Started](Start-Here/01getting-started.md)
+   - [Using Terminal](Start-Here/02using-terminal.md)
+   - [Using-VSCode Workspace](Start-Here/03using-vscode-workspace.md)
+   - [Using the GUI Desktop](Start-Here/04using-gui-desktop.md)
+   - [Pasting into The Desktop](Start-Here/05pasting-into-the-desktop.md)
+   - [Connecting over SSH](Start-Here/06connecting-over-ssh.md) (opsional)
+      - [Step-By-Step SSH](Start-Here/06ssh.md)
+   - [Restarting Challenges](Start-Here/07restarting-challenges.md)
+   - [Getting Help](Start-Here/08getting-help.md) (opsional)
 
 4. **The Challenge Environment**
    - [Welcome](Start-Here/03challenge/00.md)
