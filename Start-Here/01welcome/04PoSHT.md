@@ -1,4 +1,6 @@
 # A Proof of (In)Security of Hacking Team
+* [Link Video](https://www.youtube.com/watch?v=PxSDB90jlAs)
+* [Link Slide](https://docs.google.com/presentation/d/11Xq_KRFYOaTvrLmfUS93vzym7ierbfdJaCwHKcBKuR4)
 
 **A Proof of (In)Security of Hacking Team** adalah materi presentasi dari **pwn.college** yang mendokumentasikan studi kasus nyata pembobolan perusahaan teknologi keamanan siber (_Hacking Team_) oleh peretas Phineas Fisher sebagai bukti konkret ketidakamanan suatu sistem.
 

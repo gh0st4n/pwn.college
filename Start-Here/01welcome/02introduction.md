@@ -1,4 +1,6 @@
 # What is Cybersecurity?
+* [Link Video](https://www.youtube.com/watch?v=hIK1Dfjxq4E)
+* [Link Slide](https://docs.google.com/presentation/d/1NjoOj03eQsjnZWhm-A3IsxTVqeWUqFvR4wgfXnhsnu4)
 
 **Cybersecurity** (Keamanan Siber) adalah praktik melindungi sistem komputer, jaringan, dan program dari serangan digital, akses tidak sah, maupun kerusakan data.
 

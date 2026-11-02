@@ -1,4 +1,6 @@
 # What is pwn.college?
+* [Link Video](https://www.youtube.com/watch?v=hh4XAU6XYP0)
+* [Link Slide](https://docs.google.com/presentation/d/14ZJRIyf0HnoYO1N8GI5ygE-ZVgdhjJrvzkETFLz7NIo)
 
 **pwn.college** adalah platform edukasi keamanan siber(cyber security) gratis berbasis praktik(hands-on), yang dikembangkan dan dikelola oleh para hacker serta akademisi di **Arizona State University(ASU)**
 

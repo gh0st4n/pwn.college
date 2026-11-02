@@ -1,4 +1,5 @@
 # Getting Started
+* [Link Video](https://www.youtube.com/watch?v=DJO1A2neZ6Y&pp=ygUYcHduY29sbGVnZSBnZXR0aW5nIHN0YXJ0)
 
 ### 1. Registrasi Akun
 Untuk memulai, pengguna harus melakukan registrasi di situs resmi *pwn.college*. Anda perlu memasukkan nama pengguna publik, email pribadi, dan kata sandi untuk membuat akun baru.

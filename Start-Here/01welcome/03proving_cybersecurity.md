@@ -1,4 +1,6 @@
 # Proving Cybersecurity (Failures)
+* [Link Video](https://www.youtube.com/watch?v=1H1V1HkVt3k)
+* [Link Slide](https://docs.google.com/presentation/d/1_xdrCm136NzcDl9bqSgAEQuigUHkNjkKmamhaej296Q)
 
 **Proving Cybersecurity (Failures)** adalah materi presentasi dari **pwn.college** yang menjelaskan konsep logika, model keamanan, serta metode di balik pembuktian keamanan maupun ketidakamanan suatu sistem perangkat lunak.
 

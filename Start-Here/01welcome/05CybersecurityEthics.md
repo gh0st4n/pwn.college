@@ -1,4 +1,6 @@
 # Cybersecurity Ethics
+* [Link Video](https://www.youtube.com/watch?v=AO_twkCUTWc)
+* [Link Slide](https://docs.google.com/presentation/d/1mxKZE62tS4Sx7kfduon3vhh1VdTwgNQHeo0wSvpELtA)
 
 **Cybersecurity Ethics** adalah materi presentasi dari **pwn.college** (Arizona State University) yang membahas prinsip-prinsip etika, aturan hukum, serta batasan moral yang wajib dipatuhi oleh para profesional keamanan siber dan _hacker_.
 
