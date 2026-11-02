@@ -50,6 +50,7 @@ My Journey on [pwn.college](https://pwn.college/).
 
 #### [Pondering Path](https://pwn.college/linux-luminarium/paths/)
    - [Welcome](linux-luminarium/Pondering-Path/00.md)
+   - [The File System(Video)](linux-luminarium/Pondering-Path/01the-file-system.md)
 
 
 #### [Comprehending Commands](https://pwn.college/linux-luminarium/commands/)
