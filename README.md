@@ -35,40 +35,64 @@ My Journey on [pwn.college](https://pwn.college/).
    - [Persistant Home Directory - one](Start-Here/03challenge/04persistant-home-dir-one.md)
    - [Persistant Home Directory - two](Start-Here/03challenge/05persistant-home-dir-two.md)
 
+
 ### [Linux Luminarium](https://pwn.college/linux-luminarium/)
-1. [INDEX](linux-luminarium/00.md)
+   - [INDEX](linux-luminarium/00.md)
+
 
 #### [Hello Hackers](https://pwn.college/linux-luminarium/hello/)
+   - [Welcome](linux-luminarium/Hello-Hackers/00.md)
+   - [The Command Line(Video)](linux-luminarium/Hello-Hackers/01the-command-line.md)
+   - [Intro The Commands](linux-luminarium/02intro-the-commands.md)
+   - [Intro The Arguments](linux-luminarium/03intro-the-arguments.md)
+   - [Command History](linux-luminarium/04command-history.md)
+
 
 #### [Pondering Path](https://pwn.college/linux-luminarium/paths/)
+   - [Welcome](linux-luminarium/Pondering-Path/00.md)
+
 
 #### [Comprehending Commands](https://pwn.college/linux-luminarium/commands/)
 
+
 #### [Digesting Documentation](https://pwn.college/linux-luminarium/man/)
+
 
 #### [File Globbing](https://pwn.college/linux-luminarium/globbing/)
 
+
 #### [Praticing Piping](https://pwn.college/linux-luminarium/piping/)
+
 
 #### [Shell Variables](https://pwn.college/linux-luminarium/variables/)
 
+
 #### [Data Manipulation](https://pwn.college/linux-luminarium/data/)
+
 
 #### [Process and Job](https://pwn.college/linux-luminarium/processes/)
 
+
 #### [Untangling Users](https://pwn.college/linux-luminarium/users/)
+
 
 #### [Perceiving Permissions](https://pwn.college/linux-luminarium/permissions/)
 
+
 #### [Chaining Commands](https://pwn.college/linux-luminarium/chaining/)
+
 
 #### [Terminal Multiplexing](https://pwn.college/linux-luminarium/terminal-multiplexing/)
 
+
 #### [Pondering PATH](https://pwn.college/linux-luminarium/path/)
+
 
 #### [Silly Shenanigans](https://pwn.college/linux-luminarium/shenanigans/)
 
+
 #### [Daring Destruction](https://pwn.college/linux-luminarium/destruction/)
+
 
 #### [Furteher Learning](https://pwn.college/linux-luminarium/further-learning/)
 
