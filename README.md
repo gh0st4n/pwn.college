@@ -38,6 +38,40 @@ My Journey on [pwn.college](https://pwn.college/).
 ### [Linux Luminarium](https://pwn.college/linux-luminarium/)
 1. [INDEX](linux-luminarium/00.md)
 
+#### [Hello Hackers](https://pwn.college/linux-luminarium/hello/)
+
+#### [Pondering Path](https://pwn.college/linux-luminarium/paths/)
+
+#### [Comprehending Commands](https://pwn.college/linux-luminarium/commands/)
+
+#### [Digesting Documentation](https://pwn.college/linux-luminarium/man/)
+
+#### [File Globbing](https://pwn.college/linux-luminarium/globbing/)
+
+#### [Praticing Piping](https://pwn.college/linux-luminarium/piping/)
+
+#### [Shell Variables](https://pwn.college/linux-luminarium/variables/)
+
+#### [Data Manipulation](https://pwn.college/linux-luminarium/data/)
+
+#### [Process and Job](https://pwn.college/linux-luminarium/processes/)
+
+#### [Untangling Users](https://pwn.college/linux-luminarium/users/)
+
+#### [Perceiving Permissions](https://pwn.college/linux-luminarium/permissions/)
+
+#### [Chaining Commands](https://pwn.college/linux-luminarium/chaining/)
+
+#### [Terminal Multiplexing](https://pwn.college/linux-luminarium/terminal-multiplexing/)
+
+#### [Pondering PATH](https://pwn.college/linux-luminarium/path/)
+
+#### [Silly Shenanigans](https://pwn.college/linux-luminarium/shenanigans/)
+
+#### [Daring Destruction](https://pwn.college/linux-luminarium/destruction/)
+
+#### [Furteher Learning](https://pwn.college/linux-luminarium/further-learning/)
+
 ---
 
 <table width="100%">
