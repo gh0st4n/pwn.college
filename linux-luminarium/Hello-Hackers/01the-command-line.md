@@ -7,6 +7,10 @@
 - **Argumen dan Opsi**: Perintah dapat dimodifikasi dengan argumen tambahan. Konvensi Linux umum meliputi penggunaan satu tanda hubung (-n) untuk opsi singkat dan dua tanda hubung (--UTC) untuk opsi yang lebih panjang.
 - **Sejarah Singkat**: Linux diciptakan oleh Linus Torvalds pada awal 90-an sebagai versi hobi yang terinspirasi dari *sistem operasi Multics*. Kini, Linux menjalankan sebagian besar server, router, dan perangkat seluler di dunia.
 
+## Other Tutorial
+
+- [Tutorial bash yang komprehensif.](https://bash.cyberciti.biz/guide/Main_Page)
+
 ---
 
 <table width="100%">
