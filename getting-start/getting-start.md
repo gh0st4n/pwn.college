@@ -47,6 +47,14 @@
 #### [Pondering Path](https://pwn.college/linux-luminarium/paths/)
    - [Welcome](linux-luminarium/Pondering-Path/00.md)
    - [The File System(Video)](linux-luminarium/Pondering-Path/01the-file-system.md)
+   - [The Root](linux-luminarium/Pondering-Path/02-the-root.md)
+   - [Program and Absolute Path](linux-luminarium/Pondering-Path/03program-and-absolute-path.md)
+   - [Position thy self](linux-luminarium/Pondering-Path/04position-thy-self.md)
+   - [Position elsewhere](linux-luminarium/Pondering-Path/05position-elsewhere.md)
+   - [implicit relative path, from /](linux-luminarium/Pondering-Path/06implicit-relative-path-from-slash.md)
+   - [explicit relative path, from /](linux-luminarium/Pondering-Path/07explicit-relative-path-from-slash.md)
+   - [implicit relative path](linux-luminarium/Pondering-Path/08implicit-relative-path.md)
+   - [Home sweet home](linux-luminarium/Pondering-Path/09home-sweet-home.md)
 
 
 #### [Comprehending Commands](https://pwn.college/linux-luminarium/commands/)

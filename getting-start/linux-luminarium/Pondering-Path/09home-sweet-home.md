@@ -55,7 +55,7 @@ Pada tantangan ini, `/challenge/run` akan menuliskan salinan *flag* ke berkas ap
 2. Jalur tersebut harus berada di dalam direktori *home* Anda.
 3. Sebelum diekspansi oleh bash, argumen Anda harus terdiri dari **3 karakter atau kurang**.
 
-Sekali lagi, Anda harus menentukan jalur Anda sebagai argumen untuk /challenge/run seperti ini:
+Sekali lagi, Anda harus menentukan jalur Anda sebagai argumen untuk `/challenge/run` seperti ini:
 ```
 hacker@dojo:~$ /challenge/run YOUR_PATH_HERE
 ```
@@ -64,11 +64,11 @@ hacker@dojo:~$ /challenge/run YOUR_PATH_HERE
 
 <table width="100%">
 <tr>
-<td align="left"><a href="06implicit-relative-path-from-slash.md">&lt;&lt;&lt; Previous</a></td>
+<td align="left"><a href="08implicit-relative-path.md">&lt;&lt;&lt; Previous</a></td>
 
 <td align="center"><a href="../../../README.md">Home</a></td>
 
-<td align="right"><a href="08implicit-relative-path.md">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="../comprehending-commands/00.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 
