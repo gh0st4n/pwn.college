@@ -21,7 +21,7 @@ Tantangan ini mengharuskan Anda untuk menjalankan program `/challenge/run` dari 
 
 <td align="center"><a href="../../../README.md">Home</a></td>
 
-<td align="right"><a href="">Next &gt;&gt;&gt;</a></td>
+<td align="right"><a href="05position-elsewhere.md">Next &gt;&gt;&gt;</a></td>
 </tr>
 </table>
 
